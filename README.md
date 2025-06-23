@@ -3,6 +3,7 @@
 #NAME:PUJITHA THUMMI
 
 #INTERN ID:CT04DF107
+
 #DOMAIN:PYTHON PROGRAMMING
 
 #DURATION:4 WEEKS
@@ -99,4 +100,4 @@ Goodbye!
 -It matches user messages with predefined responses and runs in a loop until the user types "quit" or "exit".
 
 📌OUTPUT:
-
+![Image](https://github.com/user-attachments/assets/93f20175-556b-45ab-b44b-30c3eab9f533)
